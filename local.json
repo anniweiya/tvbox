@@ -397,8 +397,8 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
-			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json",
-      "jar":"./fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9"
+			"ext": ".lib/bilibili.json",
+		        "jar":"./fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9"
 		},
     {
 			"key": "南瓜",
